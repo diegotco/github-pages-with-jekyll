@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Hola, bienvenido a mi sitio web
 
-I'm glad you are here. I plan to talk about ...
+Estoy emocionado de que estés aquí. Voy a hablar sobre mis motivaciones para programar
